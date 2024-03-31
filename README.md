@@ -33,8 +33,8 @@ Gaarsiiye shopping site! is an ecommerce platform offering a diverse range of pr
 
 ## Demo
 
-You can view a live demo of the website [here](![Uploading image.png…]()
-) (replace "#" with the actual live demo link).
+You can view a live demo of the website here (replace "https://maahirmaare.github.io/SHOPPING-SITE/" with the actual live demo link).
+
 
 ## Contributing
 
